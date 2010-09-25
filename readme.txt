@@ -9,9 +9,9 @@ and Chris for their work on Small-C!
 C language, Crystal is aimed at eventually becoming a compiler 
 for the full C language.  
 
- At present, the source contains code-generators for old machines 
-(e.g. the VAX), so that part of the code will need many changes and 
-updates in order for the compiler to run on modern machines.  
+ At present, the source only has code-generators for old machines 
+(e.g. the VAX).  A new codefile will soon be started in order 
+for the compiler to run on modern machines.  
 
 This code is released to the public domain.  
 "Share and enjoy..."   ;)  
